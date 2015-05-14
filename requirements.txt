@@ -1,0 +1,16 @@
+Flask
+Flask-PyMongo
+Flask-RESTful
+flask_restul
+Jinja2
+MarkupSafe
+Werkzeug
+aniso8601
+gunicorn
+itsdangerous
+pymongo
+pytz
+six
+Beautifulsoup4
+pytesseract
+Pillow
